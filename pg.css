@@ -1,0 +1,39 @@
+
+body {
+  color: black;
+  
+  background-image: url("bg.jpg");
+  font-family: 'Montaga', serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+input
+{
+	color: var(--white);
+	
+    background-color: var(--gray);
+	    box-shadow: 0 0 0 2px var(--gray-dark);
+
+}
+font{
+	
+	color:white;
+}
+button.btn.btn-primary
+{
+	
+	background-color: var(--gray);
+}
+.social-icons a
+{
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    background: light blue;
+    border-radius: 50px;
+    color: white;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
